@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Veryable/static/css/main.08387378.chunk.css",
+    "main.js": "/Veryable/static/js/main.9bf2089f.chunk.js",
+    "main.js.map": "/Veryable/static/js/main.9bf2089f.chunk.js.map",
+    "runtime-main.js": "/Veryable/static/js/runtime-main.73df42c4.js",
+    "runtime-main.js.map": "/Veryable/static/js/runtime-main.73df42c4.js.map",
+    "static/js/2.5dc13b3d.chunk.js": "/Veryable/static/js/2.5dc13b3d.chunk.js",
+    "static/js/2.5dc13b3d.chunk.js.map": "/Veryable/static/js/2.5dc13b3d.chunk.js.map",
+    "static/js/3.bc9ebd0a.chunk.js": "/Veryable/static/js/3.bc9ebd0a.chunk.js",
+    "static/js/3.bc9ebd0a.chunk.js.map": "/Veryable/static/js/3.bc9ebd0a.chunk.js.map",
+    "index.html": "/Veryable/index.html",
+    "static/css/main.08387378.chunk.css.map": "/Veryable/static/css/main.08387378.chunk.css.map",
+    "static/js/2.5dc13b3d.chunk.js.LICENSE.txt": "/Veryable/static/js/2.5dc13b3d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73df42c4.js",
+    "static/js/2.5dc13b3d.chunk.js",
+    "static/css/main.08387378.chunk.css",
+    "static/js/main.9bf2089f.chunk.js"
+  ]
+}
