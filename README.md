@@ -1,20 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with 
+
+This application is an assessment that shows a list of users and their aditional information from a dropdown.
 [Check it out!](https://gcloud11.github.io/Veryable/)
 
-## Available Scripts
+## Technologies Used
+React.JS 
+Material UI 
+Google Fonts
 
-In the project directory, you can run:
+## Images
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
 
 
