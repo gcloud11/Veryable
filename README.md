@@ -5,9 +5,9 @@ This application is an assessment that shows a list of users and their aditional
 [Check it out!](https://gcloud11.github.io/Veryable/)
 
 ## Technologies Used
-* [React.JS](https://reactjs.org/) - React.JS
-* [Material UI](https://material-ui.com/) - Material UI
-* [Google Fonts](https://fonts.google.com/) - Google Fonts
+* [React.JS](https://reactjs.org/) 
+* [Material UI](https://material-ui.com/)
+* [Google Fonts](https://fonts.google.com/) 
 
 ## Images
 
