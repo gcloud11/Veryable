@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Veryable Coding Assessment 
 
 
 This application is an assessment that shows a list of users and their aditional information from a dropdown.
