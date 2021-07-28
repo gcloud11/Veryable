@@ -1,6 +1,7 @@
 import './App.css';
 import React, { Component } from 'react';
 import Card from './components/Card';
+// import Card1 from './components/Users/card1';
 import user from './users.json';
 import Wrapper from './components/Wrapper';
 import Title from "./components/Title";
