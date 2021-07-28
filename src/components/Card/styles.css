@@ -1,0 +1,10 @@
+.cardCont{
+    width:42%;
+    display: inline;
+    /* float: left; */
+}
+
+.email{
+    padding-left: 70px;
+}
+
